@@ -12,7 +12,7 @@
 
 
 <img align="right" height="350px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cchirag23&label=Profile%20views&color=0e75b6&style=flat" alt="cchirag23" /> </p>
 
 <h3 style=>
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
