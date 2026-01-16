@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chirag Singla</h1>
-<h3 align="center">I am a passionate python developer from India</h3>
+<h3 align="center">I Am A Passionate Python Developer From India ❤️.</h3>
 <p align="center">
 <img width="100%" alt="GIF" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" />
 </p>
